@@ -56,3 +56,6 @@ $('#card-search').on('submit', function(event) {
 
 $('#results').on('click', '.card .set-name', function() {const setName = $(this).data('setName');
 fetchCardList(`${ CARD_URL }&set=${ setName }`);});
+function add(){
+    return (x+y)
+}
