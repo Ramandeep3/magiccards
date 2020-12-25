@@ -12,6 +12,7 @@ function renderCard(card) {
     return cardElement;
 }
 
+
 function renderCardList(cardList) {
    $('#results').empty();
 
