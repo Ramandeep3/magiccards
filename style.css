@@ -116,3 +116,11 @@ html {
     justify-self: flex-end;
     max-width: 200px;
 }
+
+header {
+    background: black;
+}
+
+nav {
+    color: white;
+}
